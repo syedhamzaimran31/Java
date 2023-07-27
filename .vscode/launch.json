@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quickSort",
+            "request": "launch",
+            "mainClass": "quickSort",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "sudukoPractice2",
+            "request": "launch",
+            "mainClass": "sudukoPractice2",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "sudukoProblem",
+            "request": "launch",
+            "mainClass": "sudukoProblem",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "backTrackNqueensProblems",
+            "request": "launch",
+            "mainClass": "backTrackNqueensProblems",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "claassesandObjects",
+            "request": "launch",
+            "mainClass": "claassesandObjects",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "classesandObjects",
+            "request": "launch",
+            "mainClass": "classesandObjects",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "lassesandObjects",
+            "request": "launch",
+            "mainClass": "lassesandObjects",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "backTracking",
+            "request": "launch",
+            "mainClass": "backTracking",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "loopsPractice",
+            "request": "launch",
+            "mainClass": "loopsPractice",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "arraysPractice",
+            "request": "launch",
+            "mainClass": "arraysPractice",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "findSubsets",
+            "request": "launch",
+            "mainClass": "findSubsets",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "findNumberofWays",
+            "request": "launch",
+            "mainClass": "findNumberofWays",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "placTiles",
+            "request": "launch",
+            "mainClass": "placTiles",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "countingPaths",
+            "request": "launch",
+            "mainClass": "countingPaths",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "permutationsRecursion",
+            "request": "launch",
+            "mainClass": "permutationsRecursion",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "keyPad",
+            "request": "launch",
+            "mainClass": "keyPad",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "subSequences",
+            "request": "launch",
+            "mainClass": "subSequences",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "removingDuplicates",
+            "request": "launch",
+            "mainClass": "removingDuplicates",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "movingChar",
+            "request": "launch",
+            "mainClass": "movingChar",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "reverseStringRecursion",
+            "request": "launch",
+            "mainClass": "reverseStringRecursion",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "diskTowerRecursion",
+            "request": "launch",
+            "mainClass": "diskTowerRecursion",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "recursion1",
+            "request": "launch",
+            "mainClass": "recursion1",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "bubbleSort",
+            "request": "launch",
+            "mainClass": "bubbleSort",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "JAVA PRACTICE_130efba0"
+        }
+    ]
+}
