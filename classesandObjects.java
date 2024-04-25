@@ -4,10 +4,17 @@
     }
 
 class classesandObjects{
-        int x;
-        int k=22;
-        int o=19;
-        int u=120;
+        // int x;
+        // int k=22;
+        // int o=19;
+        //  x=20;
+
+        public static void asdasdsdasd(int a, int b ){
+                 a=10;
+                 b=20;
+                System.out.println(a);
+                System.out.println(b);
+        }
  
  
  
@@ -20,7 +27,8 @@ class classesandObjects{
     //         Main object2=new Main();
     //         object2.y=12;
     //         System.out.println(object2.y);
-                System.out.println(object1.k);
+                // System.out.println(object1.k);
+             
             
     }
 }

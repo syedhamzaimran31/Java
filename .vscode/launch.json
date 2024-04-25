@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "trianglePattern",
+            "request": "launch",
+            "mainClass": "trianglePattern",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "Practice2",
+            "request": "launch",
+            "mainClass": "Practice2",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "practiePatterns",
+            "request": "launch",
+            "mainClass": "practiePatterns",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "patterns",
+            "request": "launch",
+            "mainClass": "patterns",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
+            "name": "booleanPractice",
+            "request": "launch",
+            "mainClass": "booleanPractice",
+            "projectName": "JAVA PRACTICE_130efba0"
+        },
+        {
+            "type": "java",
             "name": "quickSort",
             "request": "launch",
             "mainClass": "quickSort",
